@@ -105,9 +105,9 @@ python game.py
 
 ## 📘 Code Highlights
 
-✔ Object-oriented design using Pygame’s `Sprite` classes
-✔ Modularized entities: Player, Bullet, Zombie, Zombie2, Zombie3, Life bar
-✔ Collision detection using `groupcollide()` and `spritecollide()`
-✔ Custom scoring system with combo mechanics
-✔ Use of mixer module for sound effects and BGM
+✔ Object-oriented design using Pygame’s `Sprite` classes \n
+✔ Modularized entities: Player, Bullet, Zombie, Zombie2, Zombie3, Life bar \n
+✔ Collision detection using `groupcollide()` and `spritecollide()` \n
+✔ Custom scoring system with combo mechanics \n
+✔ Use of mixer module for sound effects and BGM \n
 
